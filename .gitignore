@@ -1,0 +1,13 @@
+/venv/
+/.idea/
+Token.py
+LogsBot
+/Databases/
+/AllCourses/__pycache__/
+/Habits/__pycache__/
+/PsyTests/__pycache__/
+/PopTests/__pycache__/
+/__pycache__/
+test.py
+getUserAction.xlsx
+userData.xlsx
